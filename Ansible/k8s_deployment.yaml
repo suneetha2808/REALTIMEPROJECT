@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: mc-app
-        image: suneetha2808/chaitra:1
+        image: suneetha2808/chaitra:5
         ports:
         - containerPort: 8080
 ---
